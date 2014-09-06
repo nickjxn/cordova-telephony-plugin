@@ -33,7 +33,7 @@ Methods
 
 Installing
 ----------
-> cordova plugin add 
+> cordova plugin add https://github.com/NitroxisInc/cordova-telephony-plugin.git
 
 
 Permissions
